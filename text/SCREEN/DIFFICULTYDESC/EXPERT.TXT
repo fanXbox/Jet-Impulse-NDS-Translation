@@ -1,4 +1,5 @@
-%3cFor_advanced_users%c_mode.
-weapon_loading_capability.low 
-endurance,_stronger_enemies.
-A_tough_fight_will_b_deployed.
+%3cForadvancedusers%cmode.
+weaponloadingcapability.
+lowendurance,stronger
+enemies.Atoughfightwill
+bedeployed.
