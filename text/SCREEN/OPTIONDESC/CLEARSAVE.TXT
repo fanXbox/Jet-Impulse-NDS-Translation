@@ -1,2 +1,2 @@
-Erase_all_data,
+Erasealldata,
 Initialize.

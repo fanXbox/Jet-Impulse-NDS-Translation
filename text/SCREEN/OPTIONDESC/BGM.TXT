@@ -1,1 +1,1 @@
-Set_Volume_of_BGM
+SetVolumeofBGM
