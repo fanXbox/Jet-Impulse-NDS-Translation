@@ -1,2 +1,2 @@
-You_can_purchase:
-aircraft_and_weapons!
+Youcanpurchase:
+aircraftandweapons!
