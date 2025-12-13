@@ -1,0 +1,7 @@
+Whenenabled,the
+radarwill
+%3cautomatically
+adjust%ctothe
+distancetothe
+target.OFFto
+deactivateit.

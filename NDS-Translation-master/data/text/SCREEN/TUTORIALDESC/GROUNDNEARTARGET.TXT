@@ -1,0 +1,4 @@
+Thissymbolindicatesa
+%3cgroundaircraftwithin
+range%cthatis
+beingtargeted.

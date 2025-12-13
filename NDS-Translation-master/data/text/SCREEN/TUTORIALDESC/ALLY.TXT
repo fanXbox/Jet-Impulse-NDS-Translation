@@ -1,0 +1,3 @@
+%3cAllies%caredisplayedasblue
+symbols.InVSmode,theyare
+coloredaccordingtoyourteam.

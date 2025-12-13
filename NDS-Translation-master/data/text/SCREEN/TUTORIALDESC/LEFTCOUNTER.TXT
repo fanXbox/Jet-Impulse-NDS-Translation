@@ -1,0 +1,4 @@
+Indicatesthe
+total%3cnumberof
+enemy%ccurrently
+remaining.

@@ -1,0 +1,6 @@
+%3cTargetinformation%c
+Ifoutofrange,
+displaysthe
+distance;ifin
+range,displays
+itshealth.

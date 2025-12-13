@@ -1,0 +1,4 @@
+Viewthe%3cremainingtime%c
+forthemission.
+Whentheremainingtime
+reaches0,thetimeisup.

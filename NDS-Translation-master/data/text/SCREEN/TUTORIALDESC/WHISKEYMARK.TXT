@@ -1,0 +1,4 @@
+DisplayedontheHUD
+and%3calwayspoints%c
+towardthecenter
+ofthescreen.

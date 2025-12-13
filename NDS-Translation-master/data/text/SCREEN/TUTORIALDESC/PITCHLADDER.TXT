@@ -1,0 +1,3 @@
+%3cAircraftinclinations.%c
+Horizontallinesforroll.
+Lateralnumbersforpitch.
