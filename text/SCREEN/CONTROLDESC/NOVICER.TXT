@@ -7,3 +7,4 @@ Abutton:%3cMissile%c
 Bbutton:%3cMachinegun%c
 Xbuttn:%3cTargetswitching%c
 Ybuttn:%3cWeaponswitching%c
+Touchscreen:%3cmanyfunctions%c
