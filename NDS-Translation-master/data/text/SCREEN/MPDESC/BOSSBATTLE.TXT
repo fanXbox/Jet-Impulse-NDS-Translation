@@ -1,8 +1,8 @@
-%3cBossBattle%c
-Chooseoneofthreebosses
-andchallengethemtobattle.
+%3cBoss　Battle%c
+Choose　one　of　three　bosses
+and　challenge　them　to　battle.
 
-Exploreuniquestrategiesto
-defeatthebosses,andearn
-ahigherscoreby
-defeatingthemfaster!
+Explore　unique　strategies　to
+defeat　the　bosses,　and　earn
+a　higher　score　by
+defeating　them　faster!

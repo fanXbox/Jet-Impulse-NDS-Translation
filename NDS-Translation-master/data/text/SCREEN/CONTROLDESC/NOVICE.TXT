@@ -1,10 +1,10 @@
-%3cEasyairplaneoperation%c
+%3cEasy@€airplane@€operation%c
 
-+up:%3cLowerthenose%c
-+down:%3cRaisethenose%c
-+L/R:%3cSpin%c
-Abutton:%3cMissile%c
-Bbutton:%3cMachinegun%c
-Xbuttn:%3cTargetswitching%c
-Ybuttn:%3cWeaponswitching%c
-Touchscreen:%3cmanyfunctions%c
++@€up:@€%3cLower@€the@€nose%c
++@€down:@€%3cRaise@€the@€nose%c
++@€L/R:@€%3cSpin%c
+A@€button:@€%3cMissile%c
+B@€button:@€%3cMachine@€gun%c
+X@€buttn:@€%3cTarget@€switching%c
+Y@€buttn:@€%3cWeapon@€switching%c
+Touchscreen:@€%3cmany@€functions%c

@@ -1,6 +1,6 @@
-%2cForVictory:%c
-Defeattheboss
+%2cFor　Victory:%c
+Defeat　the　boss
 
 %1cDefeat:%c
-DestroyedPlane
+Destroyed　Plane
 Time-out.

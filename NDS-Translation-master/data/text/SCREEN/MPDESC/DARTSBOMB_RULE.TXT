@@ -1,5 +1,5 @@
-%2cForVictory:%c
-Destroyalltargets
+%2cFor　Victory:%c
+Destroy　all　targets
 
 %1cDefeat:%c
-DestroyedPlane
+Destroyed　Plane

@@ -1,7 +1,7 @@
 %3cSurvival%c
-Complete5mini-missions
-withinthetimelimit.
-Ifyoufailtocomplete
-themwithinthetime
-limit,themission
-willfail.
+Complete@€5@€mini-missions
+within@€the@€time@€limit.
+If@€you@€fail@€to@€complete
+them@€within@€the@€time
+limit,@€the@€mission
+will@€fail.

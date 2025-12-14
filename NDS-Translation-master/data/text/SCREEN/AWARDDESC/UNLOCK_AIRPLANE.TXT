@@ -1,4 +1,4 @@
-　Newaircraft
+　New　aircraft
 　%%3c%s%%cが
-　Hasbeen
+　Has　been
 　unlocked!

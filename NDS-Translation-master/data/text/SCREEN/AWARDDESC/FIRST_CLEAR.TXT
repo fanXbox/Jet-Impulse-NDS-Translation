@@ -1,4 +1,4 @@
-Å@FirstClear
+Å@FirstÅ@ÄClear
 Å@Bonus!
 
-Å@Å@AP+%%3c%d%%c
+Å@Å@APÅ@Ä+%%3c%d%%c

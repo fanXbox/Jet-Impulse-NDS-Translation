@@ -1,10 +1,10 @@
-%3cDartsBoomb%c
-Themissionwhereyou
-dropbombsonground
+%3cDarts　Boomb%c
+The　mission　where　you
+drop　bombs　on　ground
 targets.
-Higherscoresare
-awardedforhittingthe
-targetsinthecenter,
-ifthetargetislit
-red,yourscore
-isdoubled.
+Higher　scores　are
+awarded　for　hitting　the
+targets　in　the　center,
+if　the　target　is　lit
+red,　your　score
+is　doubled.

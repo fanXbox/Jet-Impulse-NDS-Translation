@@ -1,4 +1,4 @@
-　StoryMode
-　newdifficulty:
+　Story　Mode
+　new　difficulty:
 　%3cＡＣＥ%cが
 　unlocked!

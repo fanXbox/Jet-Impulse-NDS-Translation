@@ -1,6 +1,6 @@
-%2cForVictory:%c
-Enemyforcesdefeated
+%2cFor　Victory:%c
+Enemy　forces　defeated
 
 %1cDefeat:%c
-Time'sup
-DestroyedPlane
+Time's　up
+Destroyed　Plane

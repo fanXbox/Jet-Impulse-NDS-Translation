@@ -1,10 +1,10 @@
-%3cBaloonFight%c
-Themissionwhereyou
-machine-gunfloating
-balloons,whichwill
-deflateandfloataway
-attheendoftheir
+%3cBaloon　Fight%c
+The　mission　where　you
+machine-gun　floating
+balloons,　which　will
+deflate　and　float　away
+at　the　end　of　their
 countdown.
-Togetahighscore,
-shoottheballoonbefore
-itdeflates.
+To　get　a　high　score,
+shoot　the　balloon　before
+it　deflates.

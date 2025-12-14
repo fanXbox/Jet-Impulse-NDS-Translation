@@ -1,5 +1,5 @@
-%3cForadvancedusers%cmode.
-weaponloadingcapability.
-lowendurance,stronger
-enemies.Atoughfightwill
-bedeployed.
+%3cFor　advanced　users%c　mode.
+weapon　loading　capability.
+low　endurance,　stronger
+enemies.　A　tough　fight　will
+be　deployed.
