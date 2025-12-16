@@ -1,4 +1,4 @@
-　Free　Play
-　new　stage:
+　FreePlay
+　newstage:
 　%3cBoss　Battle%c
 　unlocked!
