@@ -1,1 +1,2 @@
-the@€sound@€player.
+Thisisadescription
+ofthesoundplayer.
