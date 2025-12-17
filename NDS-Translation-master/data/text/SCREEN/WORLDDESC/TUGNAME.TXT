@@ -1,4 +1,3 @@
-Code@€names@€(Jasmine@€and
-Delight)@€used@€in@€military
-operations@€to@€conceal@€a
-person's@€real@€name.
+Codenamesusedduringmilitaryoperations
+toconcealone'srealname.
+ExamplesincludeJasmineandDelight.

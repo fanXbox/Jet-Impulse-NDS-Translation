@@ -1,4 +1,4 @@
-Major　Diane　Earhart,　staff　officer
-at　the　Joint　Military　Headquarters
-on　Avalon.　A　messenger　who
-provides　careful　support.
+MajorDianeEarhart,staffofficeratthe
+JointMilitaryHeadquartersinAvalon.
+Herfatherisageneralandanelitesoldier.
+Sheservesastheprotagonist'smessenger.

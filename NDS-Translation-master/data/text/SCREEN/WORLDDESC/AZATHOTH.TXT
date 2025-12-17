@@ -1,4 +1,4 @@
-A　high-tech　flying　fortress
-designed　by　Vladimir,　but　the
-details　of　its　technology　remain
-a　mystery　when　it　is　destroyed.
+FlyingFortress,completedbythebrilliant
+scientistVladimir,employedallhisscientific
+knowledge.However,itstechnologyremained
+amystery,andtheshipwasdestroyed.

@@ -1,4 +1,4 @@
-Nations　occupied　by　Solaris
-in　the　previous　war,　now
-united　and　allied　with　Avalon,
-in　opposition　to　Aries.
+WesternCommunity,nationsthatwereoccupied
+bySolarisduringthepreviouswar.
+Currently,theysupporttheUnion,alongwith
+Avalon,inoppositiontoAries.

@@ -1,4 +1,3 @@
-A　retired　general　of　the　Avalon
-Navy,　he　assumes　command
-of　Grove　Force　after　the
-death　of　General　Cunningham.
+HeisaretiredgeneraloftheAvalonNavy,
+butafterGeneralCunningham'sdeath,he
+takescommandofGlobeForce.

@@ -1,4 +1,4 @@
-Neopax's　satellite　weapon　delivers 
-destructive　attacks　with　powerful
-and　inescapable,　yet　very　slow,
-electromagnetic　waves.
+Neopax'ssatelliteweapon.Itsdestructive
+electromagneticwaveattacksarepowerful
+andunavoidable,butitisslowandtakesa
+longtimetorecharge.

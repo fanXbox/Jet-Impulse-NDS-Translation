@@ -1,4 +1,4 @@
-Operation　Wild　Weasel,
-was　a　mission　to　destroy
-the　air　defense　radar
-network　before　an　offensive.
+OperationWildWeasel,namedaftertheagile
+wildweasel,wasamissiontodestroythe
+defense'sairdefenseradarnetworkpriorto
+anoffensive.
