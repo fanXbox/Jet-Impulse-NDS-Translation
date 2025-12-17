@@ -1,4 +1,3 @@
 WEAPON2:Å@Ä%3cAMM35%c
-Standardanti-airmissilewith
-mediumlock-onrange.
-EnhancedversionoftheAMM32.
+Astandardmedium-rangeanti-aircraftmissile.
+ImprovedversionofAMM32.

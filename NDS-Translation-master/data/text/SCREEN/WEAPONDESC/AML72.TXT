@@ -1,3 +1,2 @@
 WEAPON2:Å@Ä%3cAML72%c
-Standardanti-airmissilefor
-longrangeattacks.
+Standardlong-rangeanti-aircraftmissile.

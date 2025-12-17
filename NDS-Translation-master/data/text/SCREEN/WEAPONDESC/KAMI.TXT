@@ -1,3 +1,3 @@
 WEAPON2:Å@Ä%3cKAMI%c
-Obliterationmissile.
+EliminationMissile
 KAMI

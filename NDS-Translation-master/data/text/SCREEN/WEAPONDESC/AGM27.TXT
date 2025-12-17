@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cAGM27%c
-Standardanti-shipmissile.
-Mediumtolonglock-onrange.
-EnhancedversionoftheAGM26.
+Astandardanti-shipmissile.
+Hasamediumtolongrange.
+ImprovedversionofAGM26.

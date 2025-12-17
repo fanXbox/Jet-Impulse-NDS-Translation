@@ -1,3 +1,3 @@
 WEAPON2:Å@Ä%3cAGM14%c
-Outdatedanti-groundmissile.
-Therangeisrelativelyshort.
+Anolderground-to-groundmissile.
+Italsohasarelativelyshortrange.

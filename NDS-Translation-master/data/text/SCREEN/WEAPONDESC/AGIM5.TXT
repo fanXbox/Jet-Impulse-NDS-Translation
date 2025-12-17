@@ -1,4 +1,3 @@
 WEAPON2:Å@Ä%3cAGIM5%c
-Hightechanti-groundmissile
-withincreasedperformance.
-EnhancedversionoftheAGIM3.
+Ahigh-performance,anti-shipanti-surface
+missile.Medium-longdetection,hasexcellent maneuverability.ImprovedversionofAG3.

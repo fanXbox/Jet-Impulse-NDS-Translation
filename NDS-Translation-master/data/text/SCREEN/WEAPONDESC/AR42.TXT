@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cAR42%c
-Rocketswithawideattackarea
-andgreateffectiveness.
-EnhancedversionoftheAR35.
+Arocketcapableofattackingafairlywidearea.
+Itisdesignedforgrounduseandcannot
+lockon.ImprovedversionofAR35.

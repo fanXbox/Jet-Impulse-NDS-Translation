@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cGB160%c
 Abombwithlock-oncapacity.
-Inflictsheavydamageonasmall
-area.
+Asmartbombthatlocksontogroundtargets
+whilefree-falling.Forgroundattacks.

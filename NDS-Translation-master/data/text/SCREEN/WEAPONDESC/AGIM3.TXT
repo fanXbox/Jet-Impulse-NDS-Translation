@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cAGIM3%c
-Hightechanti-groundmissile
-withmedium/longrangedetection.
-EnhancedversionoftheAGIM1.
+Ahigh-performance,anti-shipanti-surface
+missile.Medium-longdetection,hasexcellent
+maneuverability.ImprovedversionofAG1.

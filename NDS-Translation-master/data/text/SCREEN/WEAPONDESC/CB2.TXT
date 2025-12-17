@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cCB2%c
-Free-fallclusterbombthat
-splitsintosmallbombletsover
-averywidearea.
+Aclusterbombthatcannotbelockedon.
+Breakintosub-bombsforwide-areaattack.
+Usedforgroundattacks.

@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cAGM15%c
-Standardanti-groundmissile
-withdecentrangeandperformance.
-EnhancedversionoftheAGM14.
+Astandardground-to-groundmissile.
+Shorterrange.
+ImprovedversionofAGM15.

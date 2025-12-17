@@ -1,3 +1,2 @@
 WEAPON1:Å@Ä%3cAAMG1%c
-Aslowbutpowerfulanti-air
-missile.
+Aslowbutpowerfulantiaircraftmissile.

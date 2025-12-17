@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cAGIM1%c
-Hightechanti-groundmissile
-withmediumrangedetectionand
-goodhomingperformance.
+Ahigh-performance,high-techanti-shipmissile.
+Itcandetectenemiesfrommediumdistances
+andhasexcellentmaneuverability.

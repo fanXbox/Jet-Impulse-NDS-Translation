@@ -1,3 +1,2 @@
 WEAPON2:Å@Ä%3cAGM26%c
-Standardanti-shipmissile
-withmediumlock-onrange.
+Standardanti-shipmissileMediumrange.

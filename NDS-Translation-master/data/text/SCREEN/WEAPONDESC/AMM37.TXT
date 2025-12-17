@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cAMM37%c
-Mediumrangeanti-airmissile
-withexcellentperformance.
-EnhancedversionoftheAMM35.
+Amedium-rangeanti-aircraftmissilewith
+relativelyhighperformance.
+ImprovedversionofAMM35.

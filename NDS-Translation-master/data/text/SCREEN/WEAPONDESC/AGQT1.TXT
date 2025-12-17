@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cAGQT1%c
-Anti-surfacemissilethatlocks
-upto4targetsatonce.
-Ithasadecentrange.
+Aair-to-groundmissilethatcanhitupto
+fourtargets.
+Itdoesn'thavealongrange.

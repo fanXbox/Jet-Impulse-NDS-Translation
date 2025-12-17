@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cAMTT2%c
-Anti-airmissilethatlocksup
-to3targetatonce.
-EnhancedversionoftheAMTT1.
+Ananti-aircraftmissilethatcanhituptothree
+targets.Medium-rangemissilewithadvanced
+tracking.ImprovedversionofAMTT1.

@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cAR33%c
-Rocketswithawideattackarea,
-designedforgroundattacks.
-Itcannotlock-ontargets.
+Arocketthatcanattackafairlywidearea.
+Itisforgrounduseandcannotlockon.
+Ithaslowpower.

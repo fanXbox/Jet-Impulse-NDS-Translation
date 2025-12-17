@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cAMQT1%c
-Anti-airmissilethatlocksup
-to4targetatonce.
-Mediumrangeandgoodperformance.
+Ananti-aircraftmissilethatcanhitupto
+fourtargets.Mediumrangeandadvanced
+trackingcapabilities.

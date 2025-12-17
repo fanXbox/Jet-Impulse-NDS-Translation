@@ -1,4 +1,4 @@
 WEAPON1:Å@Ä%3cAAM5A%c
-Obsoletegeneralpurposemissile.
-Itusesinfraredtracking.
-Lowperfomanceandpower.
+Anolder,general-purposeanti-aircraft missile.
+Ithittargetsbydetectinginfraredrays.
+Ithaspoortrackingperformanceandpower.

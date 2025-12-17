@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cGSB58%c
-Anti-ship/surfaceguidedbomb
-withagoodpenetrationpower.
-EnhancedversionoftheGSB55.
+Ananti-shipandanti-groundsmartbomb
+thathitlocked-ontargetswhilefree-falling.
+ImprovedversionofGSB55.

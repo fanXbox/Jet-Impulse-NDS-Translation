@@ -1,4 +1,2 @@
 WEAPON2:Å@Ä%3cHELL2%c
-All-targettypemissilewith
-incredibledestructivepowerand
-lowhomingperfomance.
+Apowerful,medium-range,all-targetmissile.

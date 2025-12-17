@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cAR35%c
-Rocketswithawideattackarea
-andincreaseddestructivepower.
-EnhancedversionoftheAR33.
+Arocketcapableofattackingawidearea.
+Forgrounduseonly;cannotlockon.
+ImprovedversionofAR33.

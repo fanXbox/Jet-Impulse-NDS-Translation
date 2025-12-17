@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cGSB55%c
-Anti-ship/surfaceguidedbomb
-withmediumrangeandgood
-penetrationpower.
+Ananti-shipandanti-groundsmartbomb
+thathitlocked-ontargetswhilefree-falling.
+Ithasamediumrange.

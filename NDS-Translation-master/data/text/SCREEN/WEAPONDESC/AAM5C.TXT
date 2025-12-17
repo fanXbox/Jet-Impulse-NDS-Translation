@@ -1,4 +1,4 @@
 WEAPON1:Å@Ä%3cAAM5C%c
-Standardgeneralpurposemissile.
-Itusesinfraredtracking.
-EnhancedversionoftheAAM5B.
+Astandard,general-purposeanti-aircraft
+missile.Ittrackstargetsbydetecting
+infraredrays.ImprovedversionofAAM5B.

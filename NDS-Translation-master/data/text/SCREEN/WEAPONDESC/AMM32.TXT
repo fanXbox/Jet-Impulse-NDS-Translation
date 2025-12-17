@@ -1,3 +1,2 @@
 WEAPON2:Å@Ä%3cAMM32%c
-Outdatedanti-airmissilewith
-mediumlock-onrange.
+Anolder,medium-rangeanti-aircraftmissile.

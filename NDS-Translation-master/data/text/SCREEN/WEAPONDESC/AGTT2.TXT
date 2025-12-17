@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cAGTT2%c
-Anti-surfacemissilethatlocks
-upto3targetsatonce.
-EnhancedversionoftheAGTT1.
+Aair-to-groundmissilethatcanhitupto
+threetargets.
+ImprovedversionofAGTT1.

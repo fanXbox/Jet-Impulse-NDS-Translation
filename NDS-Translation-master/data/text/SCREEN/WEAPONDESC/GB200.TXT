@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cGB200%c
-Abombwithlock-oncapacity
-andincreasedpower.
-EnhancedversionofGB160.
+Aground-basedsmartbombthathit
+locked-ontargetswhilefree-falling.
+ImprovedversionofGB160.

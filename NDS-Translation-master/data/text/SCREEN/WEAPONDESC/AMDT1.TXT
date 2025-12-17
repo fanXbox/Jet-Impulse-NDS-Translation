@@ -1,4 +1,4 @@
-WEAPON2:Å@Ä%3cAMDT1%c
-Anti-aircraftmissilethatlocks
-upto2targetsatonce.
-Mediumrangeandgoodperformance.
+WEAPON2:Å@Ä%3cAMDT1%c
+Ananti-aircraftmissilethatcanhitupto
+twotargets.Mediumrangeandadvanced
+trackingcapabilities.

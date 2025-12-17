@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3cCB3%c
-Free-fallclusterbombwith
-increasedrangeandpower.
-EnhancedversionoftheCB2.
+Aclusterbombthatcannotbelockedon.
+Itsplitsintosub-bombs,attackingawidearea
+ontheground.ImprovedversionofCB2.

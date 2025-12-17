@@ -1,4 +1,4 @@
 WEAPON2:Å@Ä%3c1000KB(1.0TonBomb)%c
-Unguidedfreefallbomb.Deals
-damageonalargearea.
-Upgradedversionof800KB.
+Afree-fallingbombthatcannotbelockedon.
+Causesdamagetotheareawhereithits.
+Improvedversionof800KB.

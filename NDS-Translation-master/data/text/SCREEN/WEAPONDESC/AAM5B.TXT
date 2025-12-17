@@ -1,4 +1,4 @@
 WEAPON1:Å@Ä%3cAAM5B%c
-Outdatedgeneralpurposemissile.
-Itusesinfraredtracking.
-EnhancedversionoftheAAM5A.
+Asomewhatolder,general-purpose
+anti-aircraftmissile.tracksbydetecting
+infraredrays.ImprovedversionofAAM5A.
