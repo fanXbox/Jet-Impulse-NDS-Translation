@@ -1,4 +1,4 @@
-Pressing@€the@€R@€button@€twice@€will
-activate@€%3cafterburner%c,
-allowing@€rapid@€acceleration
-until@€the@€gauge@€runs@€out.
+PresstheRbuttontwicetoenter
+%3cafterburner%cmode,allowingyouto
+acceleraterapidlyuntilyourboost
+meterrunsout.

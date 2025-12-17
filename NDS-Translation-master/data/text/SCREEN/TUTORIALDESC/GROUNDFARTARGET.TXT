@@ -1,4 +1,4 @@
-This　symbol　indicates　a
-%3cground　aircraft　long-ranger%c.
-You　can　change　to　another
-target　by　X　button.
+Thissymbolindicatesa%3cground
+targetedlong-range%c.
+Youcanchangetargetsby
+pressingtheXbutton.

@@ -1,3 +1,2 @@
-This　mark　indicates　a
-%3cground　aircraft　that
-is　far　away%c.
+Thissymbolindicatesa%3cground
+targetthatisfaraway%c.

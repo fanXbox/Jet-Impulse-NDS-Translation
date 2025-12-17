@@ -1,4 +1,3 @@
-Displayed@€on@€the@€HUD
-and@€%3calways@€points%c
-toward@€the@€center
-of@€the@€screen.
+ItappearswhentheHUDis
+displayedand%3calwayspoints%cto
+thecenterofthescreen.

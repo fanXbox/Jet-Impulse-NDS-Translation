@@ -1,2 +1,2 @@
-%3cPlanes%c　are　displayed　as
-wedge-shaped　arrows.
+%3cAircraft%caredisplayedasa
+wedge-shapedarrows.

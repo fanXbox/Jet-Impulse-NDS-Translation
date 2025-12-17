@@ -1,4 +1,4 @@
-This　symbol　indicates　a
-%3cground　aircraft　within
-range%c　that　is
-being　targeted.
+Thissymbolindicatesa%3cground
+targetwithinrange%c.Youcan
+changetargetsbypressing
+theXbutton.

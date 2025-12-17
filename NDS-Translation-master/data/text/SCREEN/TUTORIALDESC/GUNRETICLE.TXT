@@ -1,4 +1,4 @@
-This@€is@€the@€%3cmachine@€gun%c
-crosshair@€that@€appears@€on
-the@€HUD@€when@€you@€are@€in
-range@€of@€the@€weapon.
+WhenviewingtheHUD,thisisthe
+%3cmachinegun'stargetingaxis%c.
+WhenyoupresstheBbutton,itwill
+firetowardsthecenterofthisaxis.

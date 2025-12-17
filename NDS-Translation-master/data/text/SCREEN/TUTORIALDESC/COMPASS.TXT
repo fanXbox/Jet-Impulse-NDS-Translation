@@ -1,2 +1,2 @@
-Indicates@€the@€%3cdirection%c
-the@€aircraft@€is@€facing.
+Indicatesthedirectiontheaircraft
+isfacing.

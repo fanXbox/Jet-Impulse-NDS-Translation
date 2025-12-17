@@ -1,7 +1,7 @@
-%3cAmmo　for　each
-weapon%c.　Main
-weapon　at　the　top,
-secondary　weapon
-at　the　bottom.
-Select　the　weapon
-by　tapping　it.
+%3cRemainingammofor
+eachweapon%c.
+Mainweaponatthetop,
+secondaryweaponat
+thebottom.
+Selecttheweapon
+bytappingit.

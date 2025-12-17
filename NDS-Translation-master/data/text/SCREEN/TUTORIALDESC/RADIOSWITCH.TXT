@@ -1,6 +1,4 @@
-When　enabled,
-%3cmission
-announcements%c
-will　be　displayed
-as　text　in　the
-radar　area.
+Whenenabled,%3cvoices
+duringmissions%cwillbe
+displayedastextin
+theradararea.

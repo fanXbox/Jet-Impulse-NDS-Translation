@@ -1,4 +1,4 @@
-Indicates@€the
-number@€of@€%3cenemy
-aircraft@€shot@€down%c
-in@€this@€mission.
+Thisindicatesthe
+%3cnumberofenemy
+aircraftyouhaveshot
+down%cinthismission.

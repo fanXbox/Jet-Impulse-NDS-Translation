@@ -1,2 +1,2 @@
-This@€mark@€indicates@€%3cground
-aircraft@€within@€range%c.
+Thissymbolindicatesa%3cground
+targetwithinrange%c.

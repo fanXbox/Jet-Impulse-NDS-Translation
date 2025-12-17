@@ -1,4 +1,4 @@
-Symbol@€of@€a@€%3cdistant@€target%c.
-Press@€the@€X@€button@€to@€move
-the@€symbol@€to
-another@€target.
+Thissymbolindicatesthecurrently
+%3ctargetedaircraftatadistance%c.
+Youcanchangetargetsby
+pressingtheXbutton.

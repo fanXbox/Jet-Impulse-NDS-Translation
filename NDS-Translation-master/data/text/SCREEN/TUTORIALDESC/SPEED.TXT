@@ -1,4 +1,4 @@
-%3cSpeed　in　km/h.%c　R　button　to
-accelerate　and　the　L　button
-to　decelerate.　Press　the　L
-button　twice　for　air　brake.
+Displaysyour%3cspeedinkm/h%c.
+Rbuttontoaccelerate
+Lbuttontodecelerate.
+Lbuttontwiceforairbrake.

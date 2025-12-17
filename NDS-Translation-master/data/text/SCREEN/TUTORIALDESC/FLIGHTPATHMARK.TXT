@@ -1,4 +1,4 @@
-Aircraft@€%3cfinal@€destination.%c
-it@€shows@€the@€directio@€of
-flight@€if@€it@€continues
-to@€fly@€straight.
+Thisisthe%3caircraft'sprogresspoint%c.
+Thisshowswheretheaircraftwill
+endupifitcontinuesmoving
+forward.

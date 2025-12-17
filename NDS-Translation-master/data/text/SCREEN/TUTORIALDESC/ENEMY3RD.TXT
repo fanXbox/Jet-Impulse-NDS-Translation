@@ -1,2 +1,2 @@
-%3cEnemy　aircraft　of　the　Third
-Army%c　are　marked　in　yellow.
+%3cThirdArmyenemyaircraft%caredisplayed
+withyellowmarks.

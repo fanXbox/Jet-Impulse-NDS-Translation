@@ -1,3 +1,4 @@
-%3cYour　plane's　symbol%c.
-In　VS　mode,　it　is　colored
-according　to　the　team.
+Thissymbolindicates%3cyourownship%c.
+Itisalwaysdisplayedslightlybelowthe
+centeroftheradar.inVSmode,theywill
+bemarkedwiththeirteam'scolor.

@@ -1,4 +1,4 @@
-The@€%3coperational@€area%c@€is
-within@€the@€green@€outline.
-Leaving@€this@€zone@€will
-result@€in@€mission@€failure.
+Theareainsidethegreenoutlineisthe
+%3coperationarea%c.
+Goingoutsidethisareawillresultin
+missionfailure.

@@ -1,2 +1,2 @@
-This@€is@€the@€%3carea%c@€where
-the@€radar@€is@€displayed.
+Thisistheareawherethe%3cRadar%c
+isdisplayed.

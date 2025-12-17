@@ -1,4 +1,4 @@
-Maneuverability@€will@€be
-significantly@€reduced@€in@€these
-areas;@€%3cthey%c@€will@€disappear
-when@€the@€%3csource%c@€is@€eliminated.
+Enteringthesecircleswillsignificantly
+reduceyourmaneuverability.
+Whenyou%3cdefeatthejammingenemy%c,
+the%3cjammingareawilldisappear%c.

@@ -1,4 +1,4 @@
-Message@€that@€%3cappears@€if@€you
-leave@€the@€operational@€area%c.
-Turn@€around@€to@€stay@€within@€the
-operational@€area.
+Thismessage%3cappearswhenyouare
+abouttoleavetheoperational
+area%c.Pleaseturningtostaywithin
+theoperationalarea.

@@ -1,0 +1,4 @@
+Displaysthe%3cdirectionof
+approachingenemymissiles%c.
+Thedisplayednumberindicates
+thedistancefromthemissile.

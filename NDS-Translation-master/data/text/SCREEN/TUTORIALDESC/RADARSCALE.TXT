@@ -1,4 +1,4 @@
-Lines@€spaced@€%3c5@€km@€from@€your
-aircraft%c.@€The@€red@€lines@€indicate
-the@€missile's@€range@€when
-the@€aircraft@€is@€level.
+Thisisa%3c5,000mdistancelinefromyour
+aircraft%c.
+Theredlineindicatesthemissilerange
+whentheaircraftislevel.

@@ -1,4 +1,3 @@
-Indicates@€the
-total@€%3cnumber@€of
-enemy%c@€currently
-remaining.
+Indicatesthetotal
+%3cnumberofenemy
+aircraft%cremaining.

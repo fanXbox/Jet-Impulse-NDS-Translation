@@ -1,4 +1,4 @@
-%3cFlight　altitude.%c　red　bar
-is　the　altitude　above　sea
-level,　and　green　bar　is
-your　own　flight　altitude.
+Displaysyour%3cflightaltitude%c.
+Theredbarindicatesyouraltitude
+abovesealevel,andthegreenbar
+indicatesyourflightaltitude.

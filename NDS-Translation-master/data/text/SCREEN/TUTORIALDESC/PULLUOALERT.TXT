@@ -1,4 +1,4 @@
-A　message　appears　when
-%3cflying　at　low　altitude%c
-and　about　to　crash.　Raise
-the　nose　to　avoid　a　crash.
+Thismessageappearswhenthe
+aircraftis%3cflyingatlowaltitude%c
+andisindangerofcrashing.
+Raisethenosetoavoidcrashing.

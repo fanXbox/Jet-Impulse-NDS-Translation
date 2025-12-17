@@ -1,4 +1,4 @@
-At@€altitudes@€above@€10@€km
-or@€at@€very@€low@€speeds,@€the
-%3caircraft@€will@€stall%c.
-Accelerate@€to@€recover.
+Ifthealtitudeexceeds10,000m
+orthespeedistooslow,a%3cstall
+willoccur%c.
+Acceleratetorecover.

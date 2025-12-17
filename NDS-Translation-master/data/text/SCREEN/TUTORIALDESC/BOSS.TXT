@@ -1,3 +1,3 @@
-%3cPowerful　enemies%c,　such　as
-bosses　and　super　aces,　are
-outlined.　In　VS,　they　are　orange.
+%3cPowerfulenemies%c,unitssuchasbosses
+andsuperaces,haveanoutlinedsymbol.
+InVSmode,theyaredisplayedinorange.

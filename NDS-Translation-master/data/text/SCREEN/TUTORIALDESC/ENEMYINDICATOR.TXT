@@ -1,4 +1,4 @@
-Shows@€the@€%3cdirection@€of@€the
-targeted%c@€enemy.@€The@€length
-of@€the@€indicator@€increases
-with@€the@€angle.
+Displaysthe%3cdirectionofthe
+targeted%cenemy.Theindicator's
+lengthincreasesinproportionto
+theangle.

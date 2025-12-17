@@ -1,6 +1,7 @@
-%3cTarget　information%c
-If　out　of　range,
-displays　the
-distance;　if　in
-range,　displays
-its　health.
+%3cInformationaboutthe
+enemytarget%c.Ifitis
+outofrange,the
+distancetotheenemy
+willbedisplayed.Ifitis
+withinrange,itshealth
+willbedisplayed.

@@ -1,3 +1,4 @@
-Symbol@€of@€a@€target
-currently@€%3ctargeted@€and
-within@€range%c.
+Thissymbolindicatesthe%3ctargeted
+aircraftwithinrange%c.
+Youcanchangetargetsby
+pressingtheXbutton.

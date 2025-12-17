@@ -1,3 +1,4 @@
-%3cAircraft　inclinations.%c
-Horizontal　lines　for　roll.
-Lateral　numbers　for　pitch.
+TheHUDdisplaysthe%3caircraft's
+inclination%c:
+Thehorizontallineindicatesroll.
+Thenumbersindicatepitch.

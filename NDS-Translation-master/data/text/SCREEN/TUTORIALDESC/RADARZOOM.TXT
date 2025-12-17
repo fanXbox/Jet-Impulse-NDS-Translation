@@ -1,6 +1,4 @@
-You@€can@€change
-the@€%3cradar@€zoom%c.
-Use@€the@€+@€button
-to@€zoom@€in@€and
-the@€-@€button
-to@€zoom@€out.
+Youcanzoomin
+andoutontheradar:
++buttontozoomin
+-buttontozoomout.

@@ -1,3 +1,2 @@
-%3cNeutral　aircraft%c　that　are
-neither　friendly　nor　enemy
-are　marked　in　white.
+%3cNeutralaircraft%c(neitherfriendlynor
+enemy)aredisplayedwithawhitemark.

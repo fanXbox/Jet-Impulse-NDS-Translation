@@ -1,2 +1,2 @@
-Displayed@€when@€%3clocked
-onto%c@€an@€enemy@€aircraft.
+Thismessageappearswhenyouare
+%3clockedon%ctoanenemyaircraft.

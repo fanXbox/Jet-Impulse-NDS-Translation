@@ -1,4 +1,3 @@
-This　symbol　indicates　a
-%3clocked　ground　aircraft%c.
-Fire　your　missiles　and
-shoot　them　down.
+Thissymbolindicatesa%3clocked-on
+groundtarget%c.Fireamissileto
+shootitdown.

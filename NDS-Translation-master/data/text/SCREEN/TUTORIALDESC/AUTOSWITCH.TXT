@@ -1,7 +1,6 @@
-When　enabled,　the
-radar　will
-%3cautomatically
-adjust%c　to　the
-distance　to　the
-target.　OFF　to
-deactivate　it.
+SwitchON:radarwill
+%3cautomaticallyzoomin
+andout%cbasedonthe
+distancetothetarget.
+Youcanturnthis
+featureOFF.
