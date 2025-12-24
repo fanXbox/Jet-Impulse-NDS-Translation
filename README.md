@@ -17,10 +17,11 @@ Creative Commons Attribution-NonCommercial 4.0 International applies for all gra
 The name Jet Impulse is a trademark of Nintendo.
 
 Progress:
-* Updating menus...
-* Updating manual...
-* Updating options...
+* Updating menus
+* Updating manual
+* Updating options
 * Updating the descriptions (planes, weapons, nations, factions and characters)...
+* Updating the nametag
 * added translation of game icon title
 
 **You can fix some translations but considering the limit of characters !**
