@@ -1,5 +1,5 @@
 Delight:
 %player_name_%,youandJasmine
 pair,CactusandGardeniapair,
-WhopperandWoodballpair,Scout
+WrapperandWoodballpair,Scout
 eachcourse.
